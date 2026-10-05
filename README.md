@@ -1,22 +1,27 @@
-# Hi, I'm Will Lambert
+# Will Lambert
 
-I'm a Business Administration student at San Diego State University studying entrepreneurship. I build practical tools and prototypes with AI assistance, and bring four summers of customer-facing work and team leadership at Deerfield Park District.
+**SDSU entrepreneurship student · AI-assisted products, tools, and games**
 
-**[Explore my portfolio](https://will-lambert-portfolio.vercel.app)** · Open to part-time roles and internships in operations, marketing, customer support, and practical AI workflows.
+I turn ideas into working prototypes and keep iterating on the product, interface, and experience. My work spans personal AI workspaces, web products, creative tools, and Roblox games. I use Claude and Codex as part of that process and document what I built, my contribution, and what still needs work.
 
-## Selected work
+**[Portfolio →](https://will-lambert-portfolio.vercel.app)** · **[All projects →](https://will-lambert-portfolio.vercel.app/archive.html)** · **[Updates →](https://will-lambert-portfolio.vercel.app/updates.html)** · **[Résumé →](https://will-lambert-portfolio.vercel.app/resume/Will-Lambert-Resume.pdf)**
 
-| Project | What it explores | Status |
+## A few places to start
+
+| Project | Focus | Stage |
 | --- | --- | --- |
-| [Deerfield Aquatics Schedule](https://github.com/willywonka773202-cloud/deerfield-aquatics-schedule) | Organizing posted pool activities and reference information | Independent 2026 seasonal project; not an official district service |
-| [Goodturn](https://github.com/willywonka773202-cloud/carpool-optimizer) | Place discovery and multi-stop outing planning | Prototype |
-| [Sylistly](https://github.com/willywonka773202-cloud/sylistly) | Fashion discovery and shopping interfaces | Personal project; see portfolio for scope |
-| [BERT AI case study](https://will-lambert-portfolio.vercel.app/projects/bert-ai.html) | A personal workspace for AI conversations and project tools | Private local project in development |
+| [Goodturn](https://will-lambert-portfolio.vercel.app/projects/goodturn.html) | Place discovery and planning outings | Prototype; public preview has configuration limits |
+| [Sylistly](https://will-lambert-portfolio.vercel.app/projects/sylistly.html) | Fashion discovery and shopping interfaces | Personal project / prototype |
+| [BERT AI](https://will-lambert-portfolio.vercel.app/projects/bert-ai.html) | A personal workspace for AI conversations and project tools | In development; local project |
+| [Games & experiments](https://will-lambert-portfolio.vercel.app/archive.html?category=Games) | Roblox game systems, iteration, and presentation | Stages listed per project |
 
-## How I build
+## How I work
 
-I use Claude and Codex for AI-assisted development, with a focus on product direction, interface decisions, and iteration. I distinguish prototypes, local tools, and public demos, and credit upstream work when adapting existing projects. This profile is a curated starting point; the portfolio holds the broader archive.
+- Start with a practical problem and a small, testable version.
+- Use AI assistance while owning product decisions, testing, and iteration.
+- Separate prototypes from releases and credit projects I build upon.
+- Share useful progress, including lessons and unfinished work, in [Updates](https://will-lambert-portfolio.vercel.app/updates.html).
 
-## Beyond projects
+I’m studying Business Administration with a focus on entrepreneurship at San Diego State University. Alongside building, I bring customer-facing work and team leadership experience. I’m open to internships and part-time opportunities where I can contribute, learn, and make useful things.
 
-As a Head Guard, I led training for 100+ new and returning guards and started a mentorship program for 20 first-year guards. I'm interested in work where I can combine that experience with practical problem-solving and keep learning.
+[Get in touch](mailto:wlambert3493@sdsu.edu)
